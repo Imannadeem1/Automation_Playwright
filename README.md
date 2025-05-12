@@ -79,7 +79,7 @@ npx playwright test tests/daraz.spec.js
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools and Technologies
 
 - **Playwright** (Node.js version)
 - **JavaScript (ES6)**
@@ -87,13 +87,8 @@ npx playwright test tests/daraz.spec.js
 
 ---
 
-## 📄 License
-
-This project is for educational/demonstration purposes and does not have a specific license.
-
----
-
 ## ✍️ Author
 
-- [Your Name]
-- [Your Email or GitHub]
+- Iman Nadeem
+- https://github.com/Imannadeem1
+
